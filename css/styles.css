@@ -2,11 +2,11 @@
 /*Values declare to use*/
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #F8CB2E;
-  --secondary-color:              #EE5007;
+  --primary-color:                #FF0000;
+  --secondary-color:              #FF0000;
   --section-bg-color:             #f0f8ff;
-  --custom-btn-bg-color:          #EE5007;
-  --custom-btn-bg-hover-color:    #c01f27;
+  --custom-btn-bg-color:          #FF0000;
+  --custom-btn-bg-hover-color:    #EE5007;
   --dark-color:                   #000000;
   --p-color:                      #717275;
   --border-color:                 #7fffd4;
